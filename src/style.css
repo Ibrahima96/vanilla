@@ -85,7 +85,7 @@ body {
 }
 
 button {
-  display: inline-block;
+  display: inline-block ;
   outline: none;
   cursor: pointer;
   border-radius: 3px;
